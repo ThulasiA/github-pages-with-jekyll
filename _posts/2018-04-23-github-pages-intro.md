@@ -1,3 +1,8 @@
+---
+title: "Quick Intro to Github pages"
+date: 2018-04-23
+---
+
 Quick Introduction to Github Pages
 
 <p>Important things to note : 
